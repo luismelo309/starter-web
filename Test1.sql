@@ -1,4 +1,4 @@
-﻿/****** Script for SelectTopNRows command from SSMS  ******/
+/****** Script for SelectTopNRows command from SSMS  ******/
 SELECT TOP (1000) [NoFiche]
       ,[SIREN]
       ,[NoOrigin]
